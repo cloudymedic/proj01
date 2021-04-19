@@ -1,5 +1,6 @@
-var name = "peyman mehrad"
+var name = "peyman"
+var family = 'mehrad';
+console.log(name + ' ' + family);
 
-console.log(name);
 
 
